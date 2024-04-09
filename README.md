@@ -1,5 +1,5 @@
 # Chicgirlclub
-## [website](website)
+## [website](chicgirlclub.github.io)
 ### Responsive Portfolio Website Alexa
 
 - 123
@@ -8,6 +8,6 @@
 - 123
 - 123
 
-💙 Join  [Bedimcode](website)
+💙 Join  [Bedimcode](chicgirlclub.github.io)
 
 ![preview img](/preview.png)
